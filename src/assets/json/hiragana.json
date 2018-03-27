@@ -53,7 +53,7 @@
 
     { "key": "wa", "value": "わ" },
     { "key": "wo", "value": "を" },
-    { "key":v"n", "value": "ん" },
+    { "key": "n", "value": "ん" },
 
     { "key": "ga", "value": "が" },
     { "key": "gi", "value": "ぎ" },
