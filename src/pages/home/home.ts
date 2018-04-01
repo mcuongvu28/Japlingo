@@ -1,32 +1,16 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-import { HiraganaCharacter } from "../../app/hiragana-character";
-import { HIRAGANA_LIST } from "../../app/hiragana-list";
+
+import { HiraganaPage } from './../hiragana/hiragana';
 
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'
 })
 export class HomePage {
-
-  hiraganaList = HIRAGANA_LIST;
-
-  selectedHira: HiraganaCharacter;
-
-  showResult: Boolean;
+  pushPage;
 
   constructor(public navCtrl: NavController) {
-    this.selectedHira = this.hiraganaList[Math.floor(Math.random() * this.hiraganaList.length)];
-    this.showResult = false;
+    this.pushPage = HiraganaPage;
   }
-
-  onNext() {
-    this.selectedHira = this.hiraganaList[Math.floor(Math.random() * this.hiraganaList.length)];
-    this.showResult = false;
-  }
-
-  onViewResult() {
-    this.showResult = true;
-  }
-
 }

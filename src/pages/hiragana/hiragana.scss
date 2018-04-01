@@ -1,0 +1,51 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.hira {
+  height: 100%;
+
+  .hira-content {
+    height: 80%;
+    .hira-key {
+      height: 40%;
+      text-align: center;
+
+      h1 {
+        text-align: center;
+        font-size: 100px;
+      }
+    }
+
+    .hira-value {
+      height: 60%;
+      margin: unset;
+
+      .header {
+        text-align: center;
+        font-size: 24px;
+      }
+
+      .content {
+        text-align: center;
+        font-size: 100px;
+      }
+    }
+  }
+
+  .hira-footer {
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    bottom: 10px;
+  }
+}
+
+.hira-button {
+  margin: 1% 6% 1% 6%;
+  width: 80%;
+  height: 50px;
+  text-align: center;
+  vertical-align: center;
+}

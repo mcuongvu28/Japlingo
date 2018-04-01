@@ -1,5 +1,4 @@
 export class HiraganaCharacter {
-    id: string;
-    romaji: string;
+    key: string;
     value: string;
 }
