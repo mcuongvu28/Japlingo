@@ -62,8 +62,8 @@
     { "key": "go", "value": "ご" },  
 
     { "key": "za", "value": "ざ" },
-    { "key": "ji", "value": "じ or ぢ" },
-    { "key": "zu", "value": "ず or づ" },
+    { "key": "ji", "value": "じ/ぢ" },
+    { "key": "zu", "value": "ず/づ" },
     { "key": "ze", "value": "ぜ" },
     { "key": "zo", "value": "ぞ" },  
 

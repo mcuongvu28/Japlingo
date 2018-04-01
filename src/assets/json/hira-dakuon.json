@@ -1,0 +1,29 @@
+[
+    { "key": "ga", "value": "が" },
+    { "key": "gi", "value": "ぎ" },
+    { "key": "gu", "value": "ぐ" },
+    { "key": "ge", "value": "げ" },
+    { "key": "go", "value": "ご" },  
+
+    { "key": "za", "value": "ざ" },
+    { "key": "ji", "value": "じ/ぢ" },
+    { "key": "zu", "value": "ず/づ" },
+    { "key": "ze", "value": "ぜ" },
+    { "key": "zo", "value": "ぞ" },  
+
+    { "key": "da", "value": "だ" },
+    { "key": "de", "value": "で" },
+    { "key": "do", "value": "ど" }, 
+
+    { "key": "ba", "value": "ば" },
+    { "key": "bi", "value": "び" },
+    { "key": "bu", "value": "ぶ" },
+    { "key": "be", "value": "べ" },
+    { "key": "bo", "value": "ぼ" },  
+
+    { "key": "pa", "value": "ぱ" },
+    { "key": "pi", "value": "ぴ" },
+    { "key": "pu", "value": "ぷ" },
+    { "key": "pe", "value": "ぺ" },
+    { "key": "po", "value": "ぽ" }
+]

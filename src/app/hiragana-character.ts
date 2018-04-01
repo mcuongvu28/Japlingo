@@ -1,4 +1,4 @@
-export class HiraganaCharacter {
+export class HiraCharacter {
     key: string;
     value: string;
 }

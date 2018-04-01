@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 
 @Injectable()
-export class HiraService {
+export class RandomService {
 
     constructor() { }
 

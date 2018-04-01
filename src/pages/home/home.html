@@ -5,8 +5,21 @@
 </ion-header>
 
 <ion-content padding>
-
-  <div>
-    <button ion-button color="secondary" [navPush]="pushPage" round>Next</button>
+  <div class="list">
+    <div class="item">
+      <button ion-button color="light" [navPush]="hiraCharacterPage" [navParams]="hiraCharacterList" block round>Hira Characters</button>
+    </div>
+    <div class="item">
+      <button ion-button color="light" [navPush]="characterRandomPage" [navParams]="hiraList" block round>Hira Random</button>
+    </div>
+    <div class="item">
+      <button ion-button color="light" [navPush]="characterRandomPage" [navParams]="hiraDakuonList" block round>Hira Dakuon Random</button>
+    </div>
+    <div class="item">
+      <button ion-button color="light" [navPush]="characterRandomPage" [navParams]="hiraYouonList" block round>Hira Youon Random</button>
+    </div>
+    <div class="item">
+      <button ion-button color="light" [navPush]="characterRandomPage" [navParams]="hiraCardinalNumbersList" block round>Hira Cardinal Numbers</button>
+    </div>
   </div>
 </ion-content>

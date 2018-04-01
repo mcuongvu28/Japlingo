@@ -1,0 +1,41 @@
+[
+    { "key": "gya", "value": "ぎゃ" },
+    { "key": "gyu", "value": "ぎゅ" },
+    { "key": "gyo", "value": "ぎょ" },
+
+    { "key": "sha", "value": "しゃ" },
+    { "key": "shu", "value": "しゅ" },
+    { "key": "sho", "value": "しょ" },
+
+    { "key": "ja", "value": "じゃ" },
+    { "key": "ju", "value": "じゅ" },
+    { "key": "jo", "value": "じょ" },
+
+    { "key": "cha", "value": "ちゃ" },
+    { "key": "chu", "value": "ちゅ" },
+    { "key": "cho", "value": "ちょ" },
+
+    { "key": "nya", "value": "にゃ" },
+    { "key": "nyu", "value": "にゅ" },
+    { "key": "nyo", "value": "にょ" },
+
+    { "key": "hya", "value": "ひゃ" },
+    { "key": "hyu", "value": "ひゅ" },
+    { "key": "hyo", "value": "ひょ" },
+
+    { "key": "bya", "value": "びゃ" },
+    { "key": "byu", "value": "びゅ" },
+    { "key": "byo", "value": "びょ" },
+
+    { "key": "pya", "value": "ぴゃ" },
+    { "key": "pyu", "value": "ぴゅ" },
+    { "key": "pyo", "value": "ぴょ" },
+
+    { "key": "mya", "value": "みゃ" },
+    { "key": "myu", "value": "みゅ" },
+    { "key": "myo", "value": "みょ" },
+
+    { "key": "rya", "value": "りゃ" },
+    { "key": "ryu", "value": "りゅ" },
+    { "key": "ryo", "value": "りょ" }
+]

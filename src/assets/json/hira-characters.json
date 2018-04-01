@@ -1,0 +1,184 @@
+[
+    [ 
+        { "key": "a", "value": "あ" },
+        { "key": "i", "value": "い" },
+        { "key": "u", "value": "う" },
+        { "key": "e", "value": "え" },
+        { "key": "o", "value": "お" }
+    ],
+    [
+        { "key": "ka", "value": "か" },
+        { "key": "ki", "value": "き" },
+        { "key": "ku", "value": "く" },
+        { "key": "ke", "value": "け" },
+        { "key": "ko", "value": "こ" }
+    ],
+    [     
+        { "key": "sa", "value": "さ" },
+        { "key": "shi", "value": "し" },
+        { "key": "su", "value": "す" },
+        { "key": "se", "value": "せ" },
+        { "key": "so", "value": "そ" }
+    ],
+    [
+        { "key": "ta", "value": "た" },
+        { "key": "chi", "value": "ち" },
+        { "key": "tsu", "value": "つ" },
+        { "key": "te", "value": "て" },
+        { "key": "to", "value": "と" }
+    ],
+    [
+        { "key": "na", "value": "な" },
+        { "key": "ni", "value": "に" },
+        { "key": "nu", "value": "ぬ" },
+        { "key": "ne", "value": "ね" },
+        { "key": "no", "value": "の" }
+    ],
+    [
+        { "key": "ha", "value": "は" },
+        { "key": "hi", "value": "ひ" },
+        { "key": "fu", "value": "ふ" },
+        { "key": "he", "value": "へ" },
+        { "key": "ho", "value": "ほ" }
+    ],
+    [
+        { "key": "ma", "value": "ま" },
+        { "key": "mi", "value": "み" },
+        { "key": "mu", "value": "む" },
+        { "key": "me", "value": "め" },
+        { "key": "mo", "value": "も" }
+    ],
+    [
+        { "key": "ya", "value": "や" },
+        { "key": "yu", "value": "ゆ" },
+        { "key": "yo", "value": "よ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "ra", "value": "ら" },
+        { "key": "ri", "value": "り" },
+        { "key": "ru", "value": "る" },
+        { "key": "re", "value": "れ" },
+        { "key": "ro", "value": "ろ" }
+    ],  
+    [
+        { "key": "wa", "value": "わ" },
+        { "key": "wo", "value": "を" },
+        { "key": "n", "value": "ん" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [   
+        { "key": "ga", "value": "が" },
+        { "key": "gi", "value": "ぎ" },
+        { "key": "gu", "value": "ぐ" },
+        { "key": "ge", "value": "げ" },
+        { "key": "go", "value": "ご" }
+    ],  
+    [
+        { "key": "za", "value": "ざ" },
+        { "key": "ji", "value": "じ/ぢ" },
+        { "key": "zu", "value": "ず/づ" },
+        { "key": "ze", "value": "ぜ" },
+        { "key": "zo", "value": "ぞ" }
+    ],
+    [
+        { "key": "da", "value": "だ" },
+        { "key": "de", "value": "で" },
+        { "key": "do", "value": "ど" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "ba", "value": "ば" },
+        { "key": "bi", "value": "び" },
+        { "key": "bu", "value": "ぶ" },
+        { "key": "be", "value": "べ" },
+        { "key": "bo", "value": "ぼ" }
+    ],
+    [
+        { "key": "pa", "value": "ぱ" },
+        { "key": "pi", "value": "ぴ" },
+        { "key": "pu", "value": "ぷ" },
+        { "key": "pe", "value": "ぺ" },
+        { "key": "po", "value": "ぽ" }
+    ],
+    [
+        { "key": "kya", "value": "きゃ" },
+        { "key": "kyu", "value": "きゅ" },
+        { "key": "kyo", "value": "きょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "gya", "value": "ぎゃ" },
+        { "key": "gyu", "value": "ぎゅ" },
+        { "key": "gyo", "value": "ぎょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "sha", "value": "しゃ" },
+        { "key": "shu", "value": "しゅ" },
+        { "key": "sho", "value": "しょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "ja", "value": "じゃ" },
+        { "key": "ju", "value": "じゅ" },
+        { "key": "jo", "value": "じょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "cha", "value": "ちゃ" },
+        { "key": "chu", "value": "ちゅ" },
+        { "key": "cho", "value": "ちょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "nya", "value": "にゃ" },
+        { "key": "nyu", "value": "にゅ" },
+        { "key": "nyo", "value": "にょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "hya", "value": "ひゃ" },
+        { "key": "hyu", "value": "ひゅ" },
+        { "key": "hyo", "value": "ひょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "bya", "value": "びゃ" },
+        { "key": "byu", "value": "びゅ" },
+        { "key": "byo", "value": "びょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "pya", "value": "ぴゃ" },
+        { "key": "pyu", "value": "ぴゅ" },
+        { "key": "pyo", "value": "ぴょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "mya", "value": "みゃ" },
+        { "key": "myu", "value": "みゅ" },
+        { "key": "myo", "value": "みょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ],
+    [
+        { "key": "rya", "value": "りゃ" },
+        { "key": "ryu", "value": "りゅ" },
+        { "key": "ryo", "value": "りょ" },
+        { "key": "", "value": "" },
+        { "key": "", "value": "" }
+    ]
+]

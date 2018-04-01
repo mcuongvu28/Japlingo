@@ -1,0 +1,12 @@
+[
+    { "key": "ichi", "value": "いち"},
+    { "key": "ni", "value": "に"},
+    { "key": "san", "value": "さん"},
+    { "key": "yon", "value": "よん"},
+    { "key": "go", "value": "ご"},
+    { "key": "roku", "value": "ろく"},
+    { "key": "nana", "value": "なな"},
+    { "key": "hachi", "value": "はち"},
+    { "key": "kyuu", "value": "きゅう"},
+    { "key": "juu", "value": "じゅう"}
+]

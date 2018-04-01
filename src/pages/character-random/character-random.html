@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{pageName}}</ion-title>
+  </ion-navbar>
+  <style>
+  </style>
+</ion-header>
+
+<ion-content padding>
+  <div class="hira">
+    <div class="hira-content" *ngIf="selectedItem">
+      <div class="hira-key">
+        <h1>{{selectedItem.key}}</h1>
+      </div>
+
+      <div class="hira-value" *ngIf="showResult">
+        <p class="header">Result:</p>
+        <p class="content">{{selectedItem.value}}</p>
+      </div>
+    </div>
+
+    <div class="hira-footer">
+      <button ion-button class="hira-button" color="secondary" (click)="onNext()" round block>Next</button>
+      <button ion-button class="hira-button" color="danger" (click)="onViewResult()" round block>View</button>
+    </div>
+  </div>
+</ion-content>

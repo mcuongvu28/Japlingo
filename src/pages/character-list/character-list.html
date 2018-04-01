@@ -1,0 +1,17 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>{{pageName}}</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-grid>
+        <ion-row *ngFor="let item of items">
+            <ion-col class="hira-col" *ngFor="let character of item">
+                <p>{{character.key}}</p>
+                <p>{{character.value}}</p>
+            </ion-col>
+            <br>
+        </ion-row>
+    </ion-grid>
+</ion-content>
